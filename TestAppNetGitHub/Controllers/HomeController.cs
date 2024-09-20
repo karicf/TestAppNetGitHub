@@ -18,7 +18,7 @@ namespace TestAppNetGitHub.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Suscripcion()
         {
             return View();
         }
